@@ -1,9 +1,9 @@
 
 
-
+[![MasterHead](https://i.ibb.co/n0g2rZ3/419bdda4-13bf-41c0-87db-976313ba0ba1.jpg)]
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's  Ashik</h1>
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Frontend+Developer;Passionate+React.JS+Developer" alt="Typing SVG" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Frontend+Developer;React.JS+Developer" alt="Typing SVG" /></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamsdev&label=Profile%20views&color=0e75b6&style=flat" alt="uttamsdev" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 👨‍💻 My Portfolio
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me [LinkedIn]
 - 📄 My Resume [Resume]
