@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.ibb.co/pxz8f5M/419bdda4-13bf-41c0-87db-976313ba0ba1.webp)]
+
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="29px"> It's Md Ashik</h1>
 
@@ -9,7 +9,7 @@
 
 ### 💫 About Me:
 
-<p align="justify">Hi, I'm Ashik, a Full Stack and  from Bangladesh. With over a year of professional experience and one years of technical expertise, I create high-quality, user-friendly web applications. Specializing in front-end development, I'm passionate about transforming ideas into stunning digital experiences and eager to work with new technologies. Let's collaborate to bring innovative concepts to life and make a lasting impact.</p>
+<p align="justify">Hi, I'm Ashik, a Frontend and  from Bangladesh. With over a year of professional experience and one years of technical expertise</p>
 
 
 - 🌱 I’m currently learning **Cloud, AWS, Azure***
@@ -63,10 +63,7 @@
 
 ### 🔝 Current GitHub Activity Status
 
-<div align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=uttamsdev&theme=tokyonight&hide_border=true&border_radius=5" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamsdev&locale=en&hide_title=false&layout=compact&card_width=230&langs_count=6&theme=tokyonight&hide_border=true" alt="languages graph"  />
-</div>
+
 
 ### 🏆 GitHub Trophies
 
